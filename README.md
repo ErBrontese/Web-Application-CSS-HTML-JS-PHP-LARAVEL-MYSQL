@@ -18,7 +18,14 @@ Lato backend invece, si è deciso di utilizzare Laravel e php per comunicare con
 
 Adesso l’applicazione è pronta e basterà avviarla tramite il comando php artisan serve
 
-HOME:
+Home:
 
 
 ![HOME](https://github.com/ErBrontese/Image/blob/main/Pronte/home.png?raw=true)
+
+Mostra prodotto:
+![Mostra prodotto](https://github.com/ErBrontese/Image/blob/main/Pronte/MostraProdotto.png?raw=true)
+
+
+Acquista:
+![Acquista](https://github.com/ErBrontese/Image/blob/main/Pronte/Acquista.png?raw=true)
