@@ -24,8 +24,12 @@ Home:
 ![HOME](https://github.com/ErBrontese/Image/blob/main/Pronte/home.png?raw=true)
 
 Mostra prodotto:
+
+
 ![Mostra prodotto](https://github.com/ErBrontese/Image/blob/main/Pronte/MostraProdotto.png?raw=true)
 
 
 Acquista:
+
+
 ![Acquista](https://github.com/ErBrontese/Image/blob/main/Pronte/Acquista.png?raw=true)
