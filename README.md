@@ -13,8 +13,9 @@ Lato Backend
 
 Lato backend invece, si è deciso di utilizzare Laravel e php per comunicare con un database mysql necessario per conservare tutti i dati relativi ai prodotti.
 
+Gestione dei pagamenti: 
+Per quanto rigurda gli acquisti è possibilie andare ad utilizzare sia Paypal che Metamask. MetaMask è un portafoglio di crypto-valute che ci permette di andare a interagire con le block-chain Etherum.
 
-  
 
 Adesso l’applicazione è pronta e basterà avviarla tramite il comando php artisan serve
 
@@ -33,3 +34,8 @@ Acquista:
 
 
 ![Acquista](https://github.com/ErBrontese/Image/blob/main/Pronte/Acquista.png?raw=true)
+
+
+Account: 
+
+![Account](https://github.com/ErBrontese/Image/blob/main/Pronte/Schermata%202023-04-29%20alle%209.53.44%20AM.png?raw=true)
