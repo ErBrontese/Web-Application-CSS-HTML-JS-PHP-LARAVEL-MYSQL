@@ -13,7 +13,8 @@ Lato Backend
 
 Lato backend invece, si è deciso di utilizzare Laravel e php per comunicare con un database mysql necessario per conservare tutti i dati relativi ai prodotti.
 
-Gestione dei pagamenti: 
+Gestione dei pagamenti
+
 Per quanto rigurda gli acquisti è possibilie andare ad utilizzare sia Paypal che Metamask. MetaMask è un portafoglio di crypto-valute che ci permette di andare a interagire con le block-chain Etherum.
 
 
