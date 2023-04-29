@@ -1,0 +1,121 @@
+.buttonReview{
+    background-color: #c2fbd7;
+    border-radius: 100px;
+    color: rgb(5, 8, 5);
+    cursor: pointer;
+    display: inline-block;
+    font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+    padding: 7px 9px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 250ms;
+    border: 0;
+    font-size: 16px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    margin-top: 3%;
+    width: 70px;
+}
+
+
+
+
+
+.structureReview {
+    width:20%;
+     margin-left:8%; 
+     margin-top:-3%
+}
+
+
+
+
+
+
+
+
+
+.bar{
+    height:24px;
+     border-radius:5px;
+}
+
+
+@media (max-width: 575px) {
+
+  .structureReview {
+    width: 20%;
+    margin-left: 45%;
+    margin-top: -11%;
+  }
+
+
+.structureBar {
+  width: 170px;
+  border-radius:5px;
+  }
+
+ 
+
+
+  
+ 
+}
+
+.percentage{
+    margin-left:30%;
+     margin-top:-2%;
+}
+
+
+.feedback{
+    width: 100%;
+    max-width: 780px;
+    background: #fff;
+    margin: 0 auto;
+    padding: 15px;
+    box-shadow: 1px 1px 16px rgba(0, 0, 0, 0.3);
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+.rate {
+  float: left;
+  height: 46px;
+  padding: 0 10px;
+}
+.rate:not(:checked) > input {
+  position:absolute;
+  top:-9999px;
+  display: none;
+}
+.rate:not(:checked) > label {
+  float:right;
+  width:1em;
+  overflow:hidden;
+  white-space:nowrap;
+  cursor:pointer;
+  font-size:30px;
+  color:#ccc;
+}
+.rate:not(:checked) > label:before {
+  content: '★ ';
+}
+.rate > input:checked ~ label {
+  color: #ffc700;    
+}
+.rate:not(:checked) > label:hover,
+.rate:not(:checked) > label:hover ~ label {
+  color: #deb217;  
+}
+.rate > input:checked + label:hover,
+.rate > input:checked + label:hover ~ label,
+.rate > input:checked ~ label:hover,
+.rate > input:checked ~ label:hover ~ label,
+.rate > label:hover ~ input:checked ~ label {
+  color: #c59b08;
+}
+
+/* Modified from: https://github.com/mukulkant/Star-rating-using-pure-css */
