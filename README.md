@@ -15,7 +15,7 @@ Lato backend invece, si è deciso di utilizzare Laravel e php per comunicare con
 
 Gestione dei pagamenti
 
-Per quanto rigurda gli acquisti è possibilie andare ad utilizzare sia Paypal che Metamask. MetaMask è un portafoglio di crypto-valute che ci permette di andare a interagire con le block-chain Etherum.
+Per quanto rigurda gli acquisti è possibilie andare ad utilizzare sia Paypal che Metamask. MetaMask è un portafoglio di crypto-valute che ci permette di andare a interagire con la block-chain Etherum.
 
 
 Adesso l’applicazione è pronta e basterà avviarla tramite il comando php artisan serve
