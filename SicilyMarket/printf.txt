@@ -1,2 +1,0 @@
-  $output = new \Symfony\Component\Console\Output\ConsoleOutput();
-        $output->writeln("<info>{{$quantità}}</info>");
